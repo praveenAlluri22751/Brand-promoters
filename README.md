@@ -4,7 +4,7 @@ Hi :wave: Coders!
 <br> This is a basic non -responsive website design using HTML & CSS technologies.
 </p>
 
-![tech](https://img.shields.io/badge/Tech%20Involved-0AC18E?style=for-the-badge&logoColor=white)
+![tech](https://img.shields.io/badge/Tech%20Involved-FF8800?style=for-the-badge&logoColor=white)
 <ul>
 
 `HTML`
@@ -13,14 +13,14 @@ Hi :wave: Coders!
 
 </ul> 
 
-![clone](https://img.shields.io/badge/How%20to%20Clone-0AC18E?style=for-the-badge&logoColor=white)
+![clone](https://img.shields.io/badge/How%20to%20Clone-7D4698?style=for-the-badge&logoColor=white)
 
 <p> go to your local projects and use below command.</p>
 
  ``` git clone https://github.com/praveenAlluri22751/Brand-promoters.git ```
 
 
-![learning](https://img.shields.io/badge/Lessons%20Learned%20while%20working%20on%20this%20Project-0AC18E?style=for-the-badge&logoColor=white)
+![learning](https://img.shields.io/badge/Lessons%20Learned%20while%20working%20on%20this%20Project-1997B5?style=for-the-badge&logoColor=white)
 
 <ul>
 
@@ -31,7 +31,7 @@ Hi :wave: Coders!
 `CSS Units`
 </ul> 
 
-![tech](https://img.shields.io/badge/About%20project-0AC18E?style=for-the-badge&logoColor=white)
+![tech](https://img.shields.io/badge/About%20project-23D90007?style=for-the-badge&logoColor=white)
 <p>
 i've tweeked the postions and placed the logos and buttons in a right place to ready for deployment.
 
