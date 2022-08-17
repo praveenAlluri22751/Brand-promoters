@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* BODY */
+
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -59,7 +61,7 @@ section {
     padding: 10px 20px;
 }
 
-/* Hero Section */
+/* Hero  */
 
 .banner-container{
     display: flex;
